@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <declare-styleable name="CircleProgressView">
+        <attr name="arcWidth" format="dimension" />
+        <attr name="scaleCount" format="integer" />
+        <attr name="startColor" format="color" />
+        <attr name="endColor" format="color" />
+        <attr name="labelText" format="string" />
+        <attr name="textColor" format="color" />
+        <attr name="progressTextSize" format="dimension" />
+        <attr name="labelTextSize" format="dimension" />
+    </declare-styleable>
+</resources>
